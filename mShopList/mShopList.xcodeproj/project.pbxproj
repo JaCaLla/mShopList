@@ -7,13 +7,13 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		5E0AC08F2905BBAB009CF5FD /* mShopListApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E0AC08E2905BBAB009CF5FD /* mShopListApp.swift */; };
+		5E0AC08F2905BBAB009CF5FD /* MShopListApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E0AC08E2905BBAB009CF5FD /* MShopListApp.swift */; };
 		5E0AC0912905BBAB009CF5FD /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E0AC0902905BBAB009CF5FD /* ContentView.swift */; };
 		5E0AC0932905BBAD009CF5FD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5E0AC0922905BBAD009CF5FD /* Assets.xcassets */; };
 		5E0AC0962905BBAD009CF5FD /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5E0AC0952905BBAD009CF5FD /* Preview Assets.xcassets */; };
-		5E0AC0A02905BBAD009CF5FD /* mShopListTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E0AC09F2905BBAD009CF5FD /* mShopListTests.swift */; };
-		5E0AC0AA2905BBAD009CF5FD /* mShopListUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E0AC0A92905BBAD009CF5FD /* mShopListUITests.swift */; };
-		5E0AC0AC2905BBAD009CF5FD /* mShopListUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E0AC0AB2905BBAD009CF5FD /* mShopListUITestsLaunchTests.swift */; };
+		5E0AC0A02905BBAD009CF5FD /* MShopListTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E0AC09F2905BBAD009CF5FD /* MShopListTests.swift */; };
+		5E0AC0AA2905BBAD009CF5FD /* MShopListUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E0AC0A92905BBAD009CF5FD /* MShopListUITests.swift */; };
+		5E0AC0AC2905BBAD009CF5FD /* MShopListUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E0AC0AB2905BBAD009CF5FD /* MShopListUITestsLaunchTests.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -35,15 +35,15 @@
 
 /* Begin PBXFileReference section */
 		5E0AC08B2905BBAB009CF5FD /* mShopList.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = mShopList.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		5E0AC08E2905BBAB009CF5FD /* mShopListApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = mShopListApp.swift; sourceTree = "<group>"; };
+		5E0AC08E2905BBAB009CF5FD /* MShopListApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MShopListApp.swift; sourceTree = "<group>"; };
 		5E0AC0902905BBAB009CF5FD /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		5E0AC0922905BBAD009CF5FD /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5E0AC0952905BBAD009CF5FD /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		5E0AC09B2905BBAD009CF5FD /* mShopListTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = mShopListTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		5E0AC09F2905BBAD009CF5FD /* mShopListTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = mShopListTests.swift; sourceTree = "<group>"; };
+		5E0AC09F2905BBAD009CF5FD /* MShopListTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MShopListTests.swift; sourceTree = "<group>"; };
 		5E0AC0A52905BBAD009CF5FD /* mShopListUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = mShopListUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		5E0AC0A92905BBAD009CF5FD /* mShopListUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = mShopListUITests.swift; sourceTree = "<group>"; };
-		5E0AC0AB2905BBAD009CF5FD /* mShopListUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = mShopListUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		5E0AC0A92905BBAD009CF5FD /* MShopListUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MShopListUITests.swift; sourceTree = "<group>"; };
+		5E0AC0AB2905BBAD009CF5FD /* MShopListUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MShopListUITestsLaunchTests.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -94,7 +94,7 @@
 		5E0AC08D2905BBAB009CF5FD /* mShopList */ = {
 			isa = PBXGroup;
 			children = (
-				5E0AC08E2905BBAB009CF5FD /* mShopListApp.swift */,
+				5E0AC08E2905BBAB009CF5FD /* MShopListApp.swift */,
 				5E0AC0902905BBAB009CF5FD /* ContentView.swift */,
 				5E0AC0922905BBAD009CF5FD /* Assets.xcassets */,
 				5E0AC0942905BBAD009CF5FD /* Preview Content */,
@@ -113,7 +113,7 @@
 		5E0AC09E2905BBAD009CF5FD /* mShopListTests */ = {
 			isa = PBXGroup;
 			children = (
-				5E0AC09F2905BBAD009CF5FD /* mShopListTests.swift */,
+				5E0AC09F2905BBAD009CF5FD /* MShopListTests.swift */,
 			);
 			path = mShopListTests;
 			sourceTree = "<group>";
@@ -121,8 +121,8 @@
 		5E0AC0A82905BBAD009CF5FD /* mShopListUITests */ = {
 			isa = PBXGroup;
 			children = (
-				5E0AC0A92905BBAD009CF5FD /* mShopListUITests.swift */,
-				5E0AC0AB2905BBAD009CF5FD /* mShopListUITestsLaunchTests.swift */,
+				5E0AC0A92905BBAD009CF5FD /* MShopListUITests.swift */,
+				5E0AC0AB2905BBAD009CF5FD /* MShopListUITestsLaunchTests.swift */,
 			);
 			path = mShopListUITests;
 			sourceTree = "<group>";
@@ -137,6 +137,7 @@
 				5E0AC0872905BBAB009CF5FD /* Sources */,
 				5E0AC0882905BBAB009CF5FD /* Frameworks */,
 				5E0AC0892905BBAB009CF5FD /* Resources */,
+				5E0AC0B82905BDFC009CF5FD /* SwiftLint */,
 			);
 			buildRules = (
 			);
@@ -252,13 +253,34 @@
 		};
 /* End PBXResourcesBuildPhase section */
 
+/* Begin PBXShellScriptBuildPhase section */
+		5E0AC0B82905BDFC009CF5FD /* SwiftLint */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+			);
+			name = SwiftLint;
+			outputFileListPaths = (
+			);
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "export PATH=\"$PATH:/opt/homebrew/bin\"\nif which swiftlint > /dev/null; then\n  swiftlint\nelse\n  echo \"warning: SwiftLint not installed, download from https://github.com/realm/SwiftLint\"\nfi\n";
+		};
+/* End PBXShellScriptBuildPhase section */
+
 /* Begin PBXSourcesBuildPhase section */
 		5E0AC0872905BBAB009CF5FD /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 				5E0AC0912905BBAB009CF5FD /* ContentView.swift in Sources */,
-				5E0AC08F2905BBAB009CF5FD /* mShopListApp.swift in Sources */,
+				5E0AC08F2905BBAB009CF5FD /* MShopListApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -266,7 +288,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				5E0AC0A02905BBAD009CF5FD /* mShopListTests.swift in Sources */,
+				5E0AC0A02905BBAD009CF5FD /* MShopListTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -274,8 +296,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				5E0AC0AC2905BBAD009CF5FD /* mShopListUITestsLaunchTests.swift in Sources */,
-				5E0AC0AA2905BBAD009CF5FD /* mShopListUITests.swift in Sources */,
+				5E0AC0AC2905BBAD009CF5FD /* MShopListUITestsLaunchTests.swift in Sources */,
+				5E0AC0AA2905BBAD009CF5FD /* MShopListUITests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
